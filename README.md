@@ -1,4 +1,4 @@
-# headphone_app_ui
+# Headphone_app_ui
 
 ![Screenshot_20200919-132313](https://user-images.githubusercontent.com/50584809/98021702-724a6200-1e26-11eb-87b6-92742097da49.jpg)
 
